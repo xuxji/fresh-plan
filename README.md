@@ -1,4 +1,4 @@
-# 小黄计划 （The Yello Plan）
+# 小黄计划 （The Yellow Plan）
 
 > 注：严格按照顺序进行
 
